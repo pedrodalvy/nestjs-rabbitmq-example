@@ -8,5 +8,5 @@ pela app2, que faz um `console.log` com algumas informacoes de exemplo.
 - Ainda dentro de cada aplicacao, utilizar o comando `yarn start:dev`
 
 ### Documentacao
-[NestJS](https://docs.nestjs.com/microservices/basics)
-[NestJS + RabbitMQ](https://docs.nestjs.com/microservices/rabbitmq)
+- [NestJS](https://docs.nestjs.com/microservices/basics)
+- [NestJS + RabbitMQ](https://docs.nestjs.com/microservices/rabbitmq)
